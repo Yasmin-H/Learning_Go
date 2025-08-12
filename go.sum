@@ -1,4 +1,6 @@
 github.com/Yasmin-H/dog v0.0.0-20250812111306-a43fe46a1edc h1:LuRyRNh3FR0WxKhFLB384FnFTjIvMMOQeHGZLJz4LQ8=
 github.com/Yasmin-H/dog v0.0.0-20250812111306-a43fe46a1edc/go.mod h1:/5LX6Rc9ShtnsC06JM5BdbfkgjB7Vaqdyg3IXt4opH4=
-github.com/Yasmin-H/puppy v0.0.0-20250812111712-8b6fe983cef1 h1:VQtjmP8imqIS4hhe9ek+3T6ZJpIvprkoILDeDhswD8c=
-github.com/Yasmin-H/puppy v0.0.0-20250812111712-8b6fe983cef1/go.mod h1:56EJY8kDEsohRxPBzdelm6PPf7/xPY8F4+h2HYi0G1Q=
+github.com/Yasmin-H/puppy v1.2.0 h1:yJxMo0rnEpCOfEgxnG2K50mZRqZHXQKnVkamyWxA9/Y=
+github.com/Yasmin-H/puppy v1.2.0/go.mod h1:56EJY8kDEsohRxPBzdelm6PPf7/xPY8F4+h2HYi0G1Q=
+github.com/Yasmin-H/puppy v1.3.0 h1:pt2F7UafCA8rF5JKO+YAN4bMZllI+LSjs2ZpWDP9tZ0=
+github.com/Yasmin-H/puppy v1.3.0/go.mod h1:56EJY8kDEsohRxPBzdelm6PPf7/xPY8F4+h2HYi0G1Q=
