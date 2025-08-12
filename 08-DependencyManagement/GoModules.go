@@ -17,5 +17,7 @@ func GoModules() {
 	fmt.Println(puppy.Barks())
 	fmt.Println(puppy.BigBark())
 	fmt.Println(puppy.BigBarks())
+	fmt.Println("Hello we're working on versions here too ")
+	fmt.Println(puppy.From11())
 
 }
